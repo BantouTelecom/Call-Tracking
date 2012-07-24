@@ -55,7 +55,6 @@
 						echo("<td>" . $call['CallTo']. "</td>");
 						echo("<td>" . $call['DialCallDuration']. "</td>");
 						echo("<td>" . $call['DialCallStatus']. "</td>");
-						echo("<td></td>");
 						echo("</tr>");
 					}
 				?>
